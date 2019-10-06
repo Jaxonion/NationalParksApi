@@ -1,0 +1,24 @@
+* {
+  
+}
+.listItem {
+  border: 1px solid black;
+  text-decoration: none;
+  margin: 0 auto;
+  padding: 10px;
+}
+.itemsList {
+  list-style-type: none;
+}
+.hidden {
+  display: none;
+}
+h1, h2 {
+  text-align: center;
+}
+.search {
+  width: 200px;
+}
+.maxResults {
+  width: 80px;
+}
